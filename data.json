@@ -1,69 +1,135 @@
 {
     "graphs": [
         {
+            "type": "bar",
             "data": {
                 "labels" : ["January", "February", "March", "April", "May", "June"],
                 "datasets": [{
-                    "label": "My First dataset",
+                    "label": "data set 1",
                     "backgroundColor": "rgb(255, 99, 132)",
                     "borderColor": "rgb(255, 99, 132)",
                     "data": [0, 10, 5, 2, 20, 30, 45]
                 }]
+            },
+            "options": {
+                "scales": {
+                    "x": {
+                        "type": "category"
+                    },
+                    "y": {
+                        "beginAtZero": true
+                    }
+                }
             }
         },
         {
+            "type": "bar",
             "data": {
                 "labels" : ["January", "February", "March", "April", "May", "June"],
                 "datasets": [{
-                    "label": "My First dataset",
+                    "label": "data set 2",
                     "backgroundColor": "rgb(255, 99, 132)",
                     "borderColor": "rgb(255, 99, 132)",
                     "data": [0, 10, 5, 2, 20, 30, 45]
                 }]
+            },
+            "options": {
+                "scales": {
+                    "x": {
+                        "type": "category"
+                    },
+                    "y": {
+                        "beginAtZero": true
+                    }
+                }
             }
         },
         {
+            "type": "bar",
             "data": {
                 "labels" : ["January", "February", "March", "April", "May", "June"],
                 "datasets": [{
-                    "label": "My First dataset",
+                    "label": "data set 3",
                     "backgroundColor": "rgb(255, 99, 132)",
                     "borderColor": "rgb(255, 99, 132)",
                     "data": [0, 10, 5, 2, 20, 30, 45]
                 }]
+            },
+            "options": {
+                "scales": {
+                    "x": {
+                        "type": "category"
+                    },
+                    "y": {
+                        "beginAtZero": true
+                    }
+                }
             }
         },
         {
+            "type": "bar",
             "data": {
                 "labels" : ["January", "February", "March", "April", "May", "June"],
                 "datasets": [{
-                    "label": "My First dataset",
+                    "label": "data set 4",
                     "backgroundColor": "rgb(255, 99, 132)",
                     "borderColor": "rgb(255, 99, 132)",
                     "data": [0, 10, 5, 2, 20, 30, 45]
                 }]
+            },
+            "options": {
+                "scales": {
+                    "x": {
+                        "type": "category"
+                    },
+                    "y": {
+                        "beginAtZero": true
+                    }
+                }
             }
         },
         {
+            "type": "bar",
             "data": {
                 "labels" : ["January", "February", "March", "April", "May", "June"],
                 "datasets": [{
-                    "label": "My First dataset",
+                    "label": "data set 5",
                     "backgroundColor": "rgb(255, 99, 132)",
                     "borderColor": "rgb(255, 99, 132)",
                     "data": [0, 10, 5, 2, 20, 30, 45]
                 }]
+            },
+            "options": {
+                "scales": {
+                    "x": {
+                        "type": "category"
+                    },
+                    "y": {
+                        "beginAtZero": true
+                    }
+                }
             }
         },
         {
+            "type": "bar",
             "data": {
                 "labels" : ["January", "February", "March", "April", "May", "June"],
                 "datasets": [{
-                    "label": "My First dataset",
+                    "label": "data set 6",
                     "backgroundColor": "rgb(255, 99, 132)",
                     "borderColor": "rgb(255, 99, 132)",
                     "data": [0, 10, 5, 2, 20, 30, 45]
                 }]
+            },
+            "options": {
+                "scales": {
+                    "x": {
+                        "type": "category"
+                    },
+                    "y": {
+                        "beginAtZero": true
+                    }
+                }
             }
         }
     ]
